@@ -1,5 +1,3 @@
-# `@vantop/vantop-util`
-
 ## npm script
 
 ``` shell
